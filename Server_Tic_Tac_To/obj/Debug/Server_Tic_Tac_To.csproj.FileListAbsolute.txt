@@ -1,0 +1,6 @@
+C:\Users\luis_nikolai\Documents\SharpDevelop Projects\Server_Tic_Tac_To\Server_Tic_Tac_To\bin\Debug\Server_Tic_Tac_To.exe.config
+C:\Users\luis_nikolai\Documents\SharpDevelop Projects\Server_Tic_Tac_To\Server_Tic_Tac_To\bin\Debug\Server_Tic_Tac_To.exe
+C:\Users\luis_nikolai\Documents\SharpDevelop Projects\Server_Tic_Tac_To\Server_Tic_Tac_To\bin\Debug\Server_Tic_Tac_To.pdb
+C:\Users\luis_nikolai\Documents\SharpDevelop Projects\Server_Tic_Tac_To\Server_Tic_Tac_To\obj\Debug\Server_Tic_Tac_To.csprojResolveAssemblyReference.cache
+C:\Users\luis_nikolai\Documents\SharpDevelop Projects\Server_Tic_Tac_To\Server_Tic_Tac_To\obj\Debug\Server_Tic_Tac_To.exe
+C:\Users\luis_nikolai\Documents\SharpDevelop Projects\Server_Tic_Tac_To\Server_Tic_Tac_To\obj\Debug\Server_Tic_Tac_To.pdb
