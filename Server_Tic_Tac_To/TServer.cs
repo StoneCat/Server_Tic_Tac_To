@@ -107,6 +107,7 @@ namespace Server_Tic_Tac_To
                     {
                         // Message im Serverfenster anzeigen
                         Console.WriteLine(connectedClient.ClientEP.Port + " " + msg);
+                        connectedClient.sendMessage(msg);
                     }
                     else
                     {
